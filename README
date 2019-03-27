@@ -7,6 +7,9 @@ The hallways are represented as a grid of squares that the player can be standin
 minimap on the irght side of the screen displays areas the player has discovered. The purpose
 is to find a key somehwere on the map and then use it to unlock a door somewhere else.
 
+This project was created as the final assignment of a Software Design class taught by Jeff Ondich
+at Carleton College. Some starter code of his was used to make the project.
+
 Final_phase2 updates:
 Everything in my project works correctly, to my knowledge. 
 I was a bit confused about how to handle audio. I ended up handling it directly 
